@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans',Arial,Helvetica,Verdana,sans-serif;
+    margin-left: 40px;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 34px;
+    color: rgb(23, 63, 23);
+}
+
+.inf {
+    width: 850px;
+    height: 270px;
+    border: solid 3px black;
+    border-radius: 3px;
+    display: flex;
+    align-items: start;
+    font-size: 28px;
+}
+
+img {
+    max-height: 260px;
+    padding: 5px 5px;
+}
+
+.options {
+    margin-left: 40px;
+    padding: 0px 5px;
+    color: rgb(30, 0, 58);
+}
+
